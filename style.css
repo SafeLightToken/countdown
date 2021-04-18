@@ -13,8 +13,9 @@ Basic Body Defaults
 
 
 html {
-	font-size: 50%;
+	font-size: 100%;
 	-webkit-font-smoothing: antialiased;
+	max-width: 510px
 
 
 
